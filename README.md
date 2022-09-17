@@ -1,6 +1,7 @@
+[Myanmar](README-mm.md)
 # Java Basic
 
-### DataType
+## DataType
 
 ![Image](https://static.javatpoint.com/images/java-data-types.png)
 
@@ -31,13 +32,13 @@
 |  boolean   |   1 bit   |                            Stores true or false values                            |
 |    char    |  2 bytes  |                 Stores a single character/letter or ASCII values                  |
 
-### Operators
+## Operators
 
 * [Arithmetic Operators](#Arithmetic-Operators)
-* Assignment Operators
-* Comparison Operators / Relational Operators
-* Logical Operators
-* Bitwise Operators
+* [Assignment Operators](#Assignment-Operators)
+* [Comparison Operators / Relational Operators](#Comparison-Operators-or-Relational-Operators)
+* [Logical Operators](#Logical-Operators)
+* [Bitwise Operators](#Bitwise-Operators)
 
 ### Arithmetic Operators
 
@@ -49,4 +50,24 @@
 |    /     |      Division Divides one value by another       |        x / y        |
 |    %     |      Modulus Returns the division remainder      |        x % y        |
 |    ++    | Increment Increases the value of a variable by 1 |         ++x         |
-|    --    | Decrement Decreases the value of a variable by 1 |         --x         |	
+|    --    | Decrement Decreases the value of a variable by 1 |         --x         |
+
+### Assignment Operators
+```
+| Operator	 |  Example |  	Same As   |
+|:---------:|:--------:|:-----------:|
+|     =     |  	x = 5	 |    x = 5    |
+|    +=     |  	x += 3 | 	x = x + 3  |
+|    -=     |  	x -= 3 | 	x = x - 3  |
+|    *=     |  	x *= 3 | 	x = x * 3  |
+|    /=     |  	x /= 3 | 	x = x / 3  |
+|    %=     |  	x %= 3 | 	x = x % 3  |
+|    &=     |  	x &= 3 | 	x = x & 3  |
+|\u0000 |
+|    ^=     |  	x ^= 3 | 	x = x ^ 3  |
+|    >>=    | 	x >>= 3 | 	x = x >> 3 |
+|    <<=    | 	x <<= 3	 | x = x << 3  |
+```
+### Comparison Operators or Relational Operators
+### Logical Operators
+### Bitwise Operators
