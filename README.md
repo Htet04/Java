@@ -19,3 +19,9 @@
         * double
 
 ### Operators
+* Arithmetic Operators
+* Assignment Operators
+* Comparison Operators / Relational Operators
+* Logical Operators
+* Bitwise Operators
+
