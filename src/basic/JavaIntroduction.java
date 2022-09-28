@@ -14,8 +14,7 @@ public class JavaIntroduction {
 
         syntax
         int num; initialization
-        num = 13; declaration
-        int num = 13; direct declaration
+        int(optional)num = 13; declaration
 
         int --> DataType
         num --> variable name
