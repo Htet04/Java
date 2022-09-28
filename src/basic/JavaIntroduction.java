@@ -2,6 +2,7 @@ package basic;
 
 public class JavaIntroduction {
     public static void main(String[] args) {
+        System.out.println("This is Java Introduction class.");
         /*
         JRE --> Java Runtime Environment
         JDK --> Java Development Kit
@@ -25,6 +26,13 @@ public class JavaIntroduction {
         Every words that have mean to java language.(public,int,class,...)
 
 
+         */
+        // inline comment
+        /*
+        block comment
+         */
+        /**
+         * documentation comment
          */
     }
 }
