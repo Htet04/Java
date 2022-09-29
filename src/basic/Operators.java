@@ -5,11 +5,14 @@ public class Operators {
         /*
         Precedence
 
-        Arithmetic operators
-        Assignment operators
-        Comparison operators
-        Logical operators
-        Bitwise operators
+        Arithmetic Operators
+        Unary Operators
+        Assignment Operator
+        Relational Operators
+        Logical Operators
+        Ternary Operator
+        Bitwise Operators
+        Shift Operators
 
         Arithmetic Operators are
         + addition
@@ -45,7 +48,11 @@ public class Operators {
         && Logical And ( Return true if both statements are true )
         || Logical Or ( Return true if one of the statement is true )
         ! Logical Not ( Reverse the result, return true if the statement is false, return false if the statement is ture )
+
+        Bitwise Operators
+        <<
+        >>
+        >>>
          */
-        System.out.println(0.1+0.2==0.3);
     }
 }
