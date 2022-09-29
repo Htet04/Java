@@ -54,5 +54,11 @@ public class Operators {
         >>
         >>>
          */
+
+        System.out.println("Arithmetic Operators\nThis is addition: 1+2=" + (1 + 2)
+                + "\nThis is subtraction: 2-1=" + (2 - 1)
+                + "\nThis is multiple: 2*3=" + (2 * 3)
+                + "\nThis is division: 6/2=" + (6 / 2)
+                + "\nThis is modulus: 3/2=" + (3 % 2));
     }
 }
