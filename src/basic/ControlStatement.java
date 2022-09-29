@@ -47,6 +47,7 @@ public class ControlStatement {
         }
 
         //switch
+        System.out.println("\n\nSwitch statement");
         switch (12 / d) {
             case 1: {
                 System.out.println("case 1");
