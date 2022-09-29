@@ -10,7 +10,7 @@ public class OOP_Lession {
         Class -->
         Inheritance --> Handover
         Polymorphism --> do the same thing but the condition of occurring in several different forms
-        Abstraction -->
+        Abstraction --> hide internal data, show function
         Encapsulation --> collect all data in one place
          */
     }
