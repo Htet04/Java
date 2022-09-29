@@ -90,6 +90,11 @@ public class ControlStatement {
         for (int i = 11; i >= 10; i--) {
             System.out.println("Looping i=" + i);
         }
+        String[] names = {"Name 1","Name 2","Name 3","Name 4"};
+        for (String name :
+                names) {
+            System.out.println(name);
+        }
         HashMap<String, Object> m = new HashMap<>();
         ArrayList<HashMap<String, Object>> lm = new ArrayList<>();
         for (int i = 0; i < 10; i++) {
