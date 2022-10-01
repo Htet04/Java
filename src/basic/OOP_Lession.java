@@ -12,7 +12,7 @@ public class OOP_Lession {
         Polymorphism --> do the same thing but the condition of occurring in several different forms
         Abstraction --> hide internal data, show function
         Encapsulation --> collect all data in one place
-         */
+
         TextBoxOne mytext = new TextBoxOne();
         mytext.setText("This is My text.");
         System.out.println(mytext.getText());
@@ -45,6 +45,6 @@ public class OOP_Lession {
 
         public int getTextLength(){
             return text.length();
-        }
+        }*/
     }
 }
