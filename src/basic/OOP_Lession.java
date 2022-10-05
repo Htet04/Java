@@ -7,9 +7,9 @@ public class OOP_Lession {
         Object-Oriented Programming Language
 
         Object -->
-        Class -->
+        Class --> Template --> Collection of objects
         Inheritance --> Handover
-        Polymorphism --> do the same thing but the condition of occurring in several different forms
+        Polymorphism --> do the same thing but the condition of occurring in serveral different forms
         Abstraction --> hide internal data, show function
         Encapsulation --> collect all data in one place
 
